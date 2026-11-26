@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="notification_channel_name">JARVIS Voice Service</string>
+    <string name="notification_channel_description">Keeps JARVIS listening hands-free in the background.</string>
+    <string name="notification_title">JARVIS is active — Voice assistant running</string>
+    <string name="action_turn_off">Turn Off</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — Android Voice Assistant & Backend",
+  "description": "Hands-free Android personal voice assistant for Redmi A5 built with Kotlin, Jetpack Compose, Foreground Microphone Service, and a secure Gemini AI backend.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
